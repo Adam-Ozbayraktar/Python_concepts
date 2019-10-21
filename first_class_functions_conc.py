@@ -1,3 +1,4 @@
+# First call functions allow us to treat functions like any other object 
 def html_tag(tag):
 
     def wrap_text(msg):
